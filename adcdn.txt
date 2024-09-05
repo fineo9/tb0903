@@ -25,7 +25,6 @@
 俄罗斯 720,http://cdn.adultiptv.net/russian.m3u8
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_160257963",Dakota_lion_ (Stripchat)
 https://adultiptv.net/livecams/stream.php?id=sc_160257963
 #EXTINF:-1 tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_168244423",53roxy (Stripchat)
